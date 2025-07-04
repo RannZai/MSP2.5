@@ -251,9 +251,9 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "mcwroofs:recipes/diorite": {
     "criteria": {
-      "iron_pickaxe": "2025-07-04 03:20:07 +0000"
+      "has_planks": "2025-07-04 03:08:17 +0000"
     },
     "done": true
   },
@@ -275,9 +275,15 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/diorite": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "has_planks": "2025-07-04 03:08:17 +0000"
+      "iron_pickaxe": "2025-07-04 03:20:07 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-07-04 03:28:04 +0000"
     },
     "done": true
   },

@@ -317,6 +317,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-04 03:00:59 +0000",
       "minecraft:skeleton": "2025-07-03 05:58:29 +0000",
+      "minecraft:spider": "2025-07-04 03:30:11 +0000",
       "minecraft:zombie": "2025-07-03 05:57:38 +0000"
     },
     "done": false
@@ -339,6 +340,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-07-03 06:11:45 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-07-04 03:27:06 +0000"
     },
     "done": true
   },
