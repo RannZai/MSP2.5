@@ -282,8 +282,10 @@
       "minecraft:vindicator": "2025-07-04 03:59:43 +0000",
       "minecraft:spider": "2025-07-03 04:13:56 +0000",
       "minecraft:creeper": "2025-07-04 03:13:22 +0000",
+      "minecraft:evoker": "2025-07-04 04:16:25 +0000",
       "minecraft:witch": "2025-07-04 04:09:16 +0000",
       "minecraft:cave_spider": "2025-07-04 03:46:45 +0000",
+      "minecraft:vex": "2025-07-04 04:29:44 +0000",
       "minecraft:zombie": "2025-07-03 04:14:57 +0000",
       "minecraft:zombie_villager": "2025-07-03 04:18:25 +0000"
     },
@@ -427,18 +429,6 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/dark_oak": {
-    "criteria": {
-      "has_planks": "2025-07-04 03:54:22 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-07-04 03:45:30 +0000"
-    },
-    "done": true
-  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-07-04 03:40:17 +0000"
@@ -451,39 +441,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "tombstone:adventure/ambush": {
     "criteria": {
-      "shot_arrow": "2025-07-04 03:59:43 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-07-04 04:02:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-07-04 03:59:43 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-07-04 04:03:49 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-07-04 03:50:02 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-07-04 04:08:06 +0000"
+      "coded_trigger": "2025-07-04 03:45:30 +0000"
     },
     "done": true
   },
@@ -493,9 +453,76 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-07-04 03:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-04 03:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-04 03:59:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 04:02:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-07-04 04:03:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 04:03:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-07-04 04:16:25 +0000",
+      "killed_iceologer": "2025-07-04 04:17:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-07-04 04:17:11 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-07-04 04:17:39 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2025-07-04 04:32:53 +0000"
     },
     "done": true
   },

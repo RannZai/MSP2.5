@@ -56,7 +56,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-07-04 02:38:23 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-04 04:38:40 +0000",
       "minecraft:forest": "2025-07-04 04:11:22 +0000",
+      "minecraft:ocean": "2025-07-04 04:34:36 +0000",
       "minecraft:savanna": "2025-07-04 02:44:09 +0000",
       "minecraft:plains": "2025-07-04 01:57:33 +0000"
     },
@@ -325,6 +327,30 @@
   "evilcraft:evil_source": {
     "criteria": {
       "criteria_0": "2025-07-04 03:57:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-07-04 04:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-04 04:39:55 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-07-04 04:42:36 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-07-04 04:35:05 +0000"
     },
     "done": true
   },
