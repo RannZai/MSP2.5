@@ -1048,3 +1048,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jul2025 05:45:12.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: YucaConSuero is now a Vampire level 0]
 [04Jul2025 05:45:17.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: 2whatsapp2 is now a Vampire level 0]
 [04Jul2025 05:45:29.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: Teleported 4 entities to TheDemente]
+[04Jul2025 05:48:15.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YucaConSuero withered away
+[04Jul2025 05:48:15.091] [Server thread/INFO] [tombstone/]: The player YucaConSuero has successfully been saved
+[04Jul2025 05:48:17.267] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/47076, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[04Jul2025 05:48:18.314] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/47123, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[04Jul2025 05:48:37.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: Teleported YucaConSuero to 2whatsapp2]
+[04Jul2025 05:48:46.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDemente has made the advancement [First Age]
+[04Jul2025 05:49:23.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: Teleported 4 entities to TheDemente]
+[04Jul2025 05:55:35.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: YucaConSuero is now a Vampire level 1]
+[04Jul2025 05:55:42.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: YucaConSuero is now a Vampire level 0]
+[04Jul2025 05:55:53.461] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/50185, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[04Jul2025 05:56:31.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[04Jul2025 05:56:36.787] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/51003, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[04Jul2025 05:56:37.113] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/51009, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[04Jul2025 05:56:51.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5000ms or 100 ticks behind
+[04Jul2025 05:57:11.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5449ms or 108 ticks behind
+[04Jul2025 05:57:31.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4693ms or 93 ticks behind
+[04Jul2025 05:57:50.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3784ms or 75 ticks behind
+[04Jul2025 05:58:08.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3844ms or 76 ticks behind
+[04Jul2025 05:58:27.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3776ms or 75 ticks behind
+[04Jul2025 05:58:30.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 has made the advancement [Cover Me with Diamonds]

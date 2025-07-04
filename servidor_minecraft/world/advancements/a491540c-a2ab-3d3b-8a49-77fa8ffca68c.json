@@ -290,6 +290,7 @@
       "minecraft:witch": "2025-07-04 04:09:16 +0000",
       "minecraft:cave_spider": "2025-07-04 03:46:45 +0000",
       "minecraft:enderman": "2025-07-04 05:20:29 +0000",
+      "minecraft:silverfish": "2025-07-04 05:48:53 +0000",
       "minecraft:vex": "2025-07-04 04:29:44 +0000",
       "minecraft:zombie": "2025-07-03 04:14:57 +0000",
       "minecraft:zombie_villager": "2025-07-03 04:18:25 +0000"
@@ -534,6 +535,12 @@
   "evilcraft:cannibal": {
     "criteria": {
       "criteria_0": "2025-07-04 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-07-04 05:44:11 +0000"
     },
     "done": true
   },
