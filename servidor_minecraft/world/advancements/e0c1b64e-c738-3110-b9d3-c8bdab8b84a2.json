@@ -58,6 +58,7 @@
       "minecraft:beach": "2025-07-03 03:49:35 +0000",
       "minecraft:lukewarm_ocean": "2025-07-03 03:57:08 +0000",
       "minecraft:river": "2025-07-03 03:47:32 +0000",
+      "minecraft:ocean": "2025-07-04 02:46:38 +0000",
       "minecraft:savanna": "2025-07-03 03:46:03 +0000",
       "minecraft:plains": "2025-07-03 03:42:57 +0000"
     },
@@ -160,15 +161,9 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/acacia_planks": {
+  "dungeons_arise:find_bathhouse": {
     "criteria": {
-      "has_planks": "2025-07-04 02:37:11 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_key": {
-    "criteria": {
-      "has_ingredient": "2025-07-04 02:36:19 +0000"
+      "location0": "2025-07-04 02:35:42 +0000"
     },
     "done": true
   },
@@ -178,9 +173,33 @@
     },
     "done": true
   },
-  "dungeons_arise:find_bathhouse": {
+  "tombstone:recipes/from_grave_key": {
     "criteria": {
-      "location0": "2025-07-04 02:35:42 +0000"
+      "has_ingredient": "2025-07-04 02:36:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:36:53 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-07-04 02:37:00 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia_planks": {
+    "criteria": {
+      "has_planks": "2025-07-04 02:37:11 +0000"
     },
     "done": true
   },
@@ -196,21 +215,45 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_dust": {
+  "vinery:main/forbidden_fruit": {
     "criteria": {
-      "has_ingredient": "2025-07-04 02:36:53 +0000"
+      "apple": "2025-07-04 02:41:44 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
+  "mcwroofs:recipes/gutters": {
     "criteria": {
-      "coded_trigger": "2025-07-04 02:36:48 +0000"
+      "has_planks": "2025-07-04 02:41:12 +0000"
     },
     "done": true
   },
-  "mcwroofs:recipes/acacia": {
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "has_planks": "2025-07-04 02:37:00 +0000"
+      "apple": "2025-07-04 02:41:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-04 02:41:12 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-04 02:46:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-07-04 02:46:35 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-07-04 02:41:38 +0000"
     },
     "done": true
   },
