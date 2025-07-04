@@ -343,6 +343,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-07-04 03:37:15 +0000"
+    },
+    "done": true
+  },
   "simpleplanes:recipes/plane": {
     "criteria": {
       "in_fire": "2025-07-04 03:27:06 +0000"

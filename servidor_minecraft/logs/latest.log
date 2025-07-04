@@ -1162,3 +1162,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jul2025 03:35:31.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
 [04Jul2025 03:35:49.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3532ms or 70 ticks behind
 [04Jul2025 03:36:07.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3101ms or 62 ticks behind
+[04Jul2025 03:36:26.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4090ms or 81 ticks behind
+[04Jul2025 03:36:45.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3612ms or 72 ticks behind
+[04Jul2025 03:36:55.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 has made the advancement [Suit Up]
+[04Jul2025 03:37:04.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4390ms or 87 ticks behind
+[04Jul2025 03:37:23.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3584ms or 71 ticks behind
+[04Jul2025 03:37:42.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3845ms or 76 ticks behind
+[04Jul2025 03:38:00.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3868ms or 77 ticks behind
+[04Jul2025 03:38:20.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4549ms or 90 ticks behind
+[04Jul2025 03:38:39.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4353ms or 87 ticks behind
+[04Jul2025 03:38:59.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5165ms or 103 ticks behind
+[04Jul2025 03:39:20.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5701ms or 114 ticks behind
+[04Jul2025 03:39:39.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4387ms or 87 ticks behind
+[04Jul2025 03:39:58.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4122ms or 82 ticks behind
+[04Jul2025 03:40:18.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4603ms or 92 ticks behind
+[04Jul2025 03:40:38.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4869ms or 97 ticks behind
+[04Jul2025 03:40:58.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5476ms or 109 ticks behind
+[04Jul2025 03:41:19.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5255ms or 105 ticks behind
+[04Jul2025 03:41:40.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5937ms or 118 ticks behind
+[04Jul2025 03:42:02.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7795ms or 155 ticks behind
+[04Jul2025 03:42:10.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YucaConSuero has made the advancement [Masquerade]
+[04Jul2025 03:42:24.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6515ms or 130 ticks behind
+[04Jul2025 03:42:45.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6280ms or 125 ticks behind
+[04Jul2025 03:43:07.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6771ms or 135 ticks behind
+[04Jul2025 03:43:09.780] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/62291, l='ServerLevel[world]', x=-709.23, y=59.00, z=-749.50] died, message: 'Farmer was slain by Zombie'
+[04Jul2025 03:43:14.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YucaConSuero has made the advancement [It Bites]
+[04Jul2025 03:43:27.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5212ms or 104 ticks behind
+[04Jul2025 03:43:50.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8115ms or 162 ticks behind
+[04Jul2025 03:43:56.410] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/62292, l='ServerLevel[world]', x=-709.49, y=59.92, z=-754.34] died, message: 'Farmer was slain by Zombie'
+[04Jul2025 03:44:05.756] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/62288, l='ServerLevel[world]', x=-704.52, y=65.00, z=-755.59] died, message: 'Shepherd was slain by Zombie'
+[04Jul2025 03:44:13.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7659ms or 153 ticks behind
+[04Jul2025 03:44:22.561] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62244, l='ServerLevel[world]', x=-646.35, y=68.00, z=-722.08] died, message: 'Villager was slain by Vindicator'
+[04Jul2025 03:44:35.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7231ms or 144 ticks behind
+[04Jul2025 03:44:45.601] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/62222, l='ServerLevel[world]', x=-650.51, y=68.00, z=-724.85] died, message: 'Nitwit was slain by Vindicator'
+[04Jul2025 03:44:51.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDemente was slain by Zombie
+[04Jul2025 03:44:51.108] [Server thread/INFO] [tombstone/]: The player TheDemente has successfully been saved
+[04Jul2025 03:44:57.276] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62326, l='ServerLevel[world]', x=-690.52, y=44.00, z=-770.49] died, message: 'Villager discovered the floor was lava'
+[04Jul2025 03:44:57.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7433ms or 148 ticks behind
+[04Jul2025 03:45:17.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4939ms or 98 ticks behind
+[04Jul2025 03:45:30.133] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/62236, l='ServerLevel[world]', x=-726.10, y=55.02, z=-769.75] died, message: 'Shepherd was slain by Zombie Villager'
+[04Jul2025 03:45:30.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RannZai has made the advancement [Ambush]
+[04Jul2025 03:45:38.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5654ms or 113 ticks behind
+[04Jul2025 03:45:38.989] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62259, l='ServerLevel[world]', x=-709.37, y=55.00, z=-763.62] died, message: 'Villager was slain by Zombie'
+[04Jul2025 03:45:59.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5677ms or 113 ticks behind
+[04Jul2025 03:46:03.005] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/62233, l='ServerLevel[world]', x=-647.24, y=68.00, z=-728.51] died, message: 'Cartographer was shot by Pillager'
+[04Jul2025 03:46:19.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5419ms or 108 ticks behind
+[04Jul2025 03:46:26.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDemente has reached the goal [Chain Death]
+[04Jul2025 03:46:26.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDemente was slain by Zombie
+[04Jul2025 03:46:26.504] [Server thread/INFO] [tombstone/]: The player TheDemente has successfully been saved

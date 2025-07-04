@@ -287,5 +287,17 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-04 03:36:55 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-07-04 03:36:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
