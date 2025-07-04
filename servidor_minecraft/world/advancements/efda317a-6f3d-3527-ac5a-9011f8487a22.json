@@ -372,8 +372,12 @@
     "criteria": {
       "minecraft:pillager": "2025-07-03 05:02:38 +0000",
       "minecraft:skeleton": "2025-07-04 03:03:05 +0000",
+      "minecraft:ravager": "2025-07-04 04:08:23 +0000",
+      "minecraft:vindicator": "2025-07-04 04:08:09 +0000",
       "minecraft:creeper": "2025-07-03 05:12:54 +0000",
+      "minecraft:witch": "2025-07-04 04:09:22 +0000",
       "minecraft:cave_spider": "2025-07-04 03:15:57 +0000",
+      "minecraft:zombie": "2025-07-04 04:10:51 +0000",
       "minecraft:drowned": "2025-07-03 05:52:30 +0000",
       "minecraft:zombie_villager": "2025-07-04 03:52:39 +0000"
     },
@@ -445,6 +449,18 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_iceologer": "2025-07-04 04:10:46 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-07-04 04:11:06 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/red_nether_bricks": {
     "criteria": {
       "has_planks": "2025-07-04 03:39:50 +0000"
@@ -463,6 +479,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 04:09:26 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-07-04 04:03:26 +0000"
@@ -472,6 +494,18 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-07-04 03:53:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 04:11:06 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-07-04 04:10:46 +0000"
     },
     "done": true
   },

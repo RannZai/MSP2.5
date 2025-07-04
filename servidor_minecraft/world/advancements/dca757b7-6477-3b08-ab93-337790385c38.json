@@ -318,6 +318,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-04 03:00:59 +0000",
       "minecraft:skeleton": "2025-07-03 05:58:29 +0000",
+      "minecraft:vindicator": "2025-07-04 04:11:55 +0000",
       "minecraft:spider": "2025-07-04 03:30:11 +0000",
       "minecraft:creeper": "2025-07-04 03:55:19 +0000",
       "minecraft:cave_spider": "2025-07-04 03:47:19 +0000",
@@ -336,6 +337,7 @@
     "criteria": {
       "cabbage": "2025-07-03 06:09:09 +0000",
       "tomato": "2025-07-03 06:08:47 +0000",
+      "rice": "2025-07-04 04:08:00 +0000",
       "potato": "2025-07-03 06:12:43 +0000",
       "wheat": "2025-07-03 06:11:45 +0000"
     },
@@ -365,15 +367,39 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-04 04:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-07-04 03:51:35 +0000"
     },
     "done": true
   },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-07-04 04:13:53 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-07-04 03:00:59 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-07-04 04:13:53 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-07-04 04:08:00 +0000"
     },
     "done": true
   },
@@ -410,6 +436,18 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-07-04 03:46:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-07-04 04:13:04 +0000"
     },
     "done": true
   },

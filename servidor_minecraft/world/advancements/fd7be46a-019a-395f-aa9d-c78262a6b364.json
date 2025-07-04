@@ -56,6 +56,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-07-04 02:38:23 +0000",
+      "minecraft:forest": "2025-07-04 04:11:22 +0000",
       "minecraft:savanna": "2025-07-04 02:44:09 +0000",
       "minecraft:plains": "2025-07-04 01:57:33 +0000"
     },
@@ -75,6 +76,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:ironwood_gour": "2025-07-04 04:06:18 +0000",
       "biomeswevegone:prairie": "2025-07-04 02:03:52 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-04 01:59:46 +0000"
     },
@@ -174,7 +176,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-07-04 02:48:02 +0000"
+      "apple": "2025-07-04 02:48:02 +0000",
+      "golden_apple": "2025-07-04 04:07:46 +0000"
     },
     "done": false
   },
