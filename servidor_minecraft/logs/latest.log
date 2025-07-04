@@ -985,3 +985,67 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jul2025 02:54:14.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 has made the advancement [A Seedy Place]
 [04Jul2025 02:54:38.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [04Jul2025 02:55:06.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[04Jul2025 02:55:23.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RannZai> andre
+[04Jul2025 02:55:24.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2894ms or 57 ticks behind
+[04Jul2025 02:55:25.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RannZai> tienes tierra
+[04Jul2025 02:55:37.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDemente> yo si
+[04Jul2025 02:55:50.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDemente> toda la que quieras
+[04Jul2025 02:56:27.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RannZai> gracias papi
+[04Jul2025 02:56:44.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDemente> cual gracias, encuerate
+[04Jul2025 02:56:45.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04Jul2025 02:57:03.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2870ms or 57 ticks behind
+[04Jul2025 02:57:20.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
+[04Jul2025 02:57:38.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2731ms or 54 ticks behind
+[04Jul2025 02:57:58.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5326ms or 106 ticks behind
+[04Jul2025 02:58:17.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4104ms or 82 ticks behind
+[04Jul2025 02:58:37.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5026ms or 100 ticks behind
+[04Jul2025 02:58:57.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
+[04Jul2025 02:59:15.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2976ms or 59 ticks behind
+[04Jul2025 02:59:34.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4349ms or 86 ticks behind
+[04Jul2025 02:59:41.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 has made the advancement [First Age]
+[04Jul2025 02:59:54.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[04Jul2025 03:00:15.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5460ms or 109 ticks behind
+[04Jul2025 03:00:33.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3764ms or 75 ticks behind
+[04Jul2025 03:00:39.461] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2whatsapp2 lost connection: Disconnected
+[04Jul2025 03:00:39.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 left the game
+[04Jul2025 03:00:51.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2849ms or 56 ticks behind
+[04Jul2025 03:00:52.839] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity quark:variant_chest @ BlockPos{x=-2681, y=-47, z=-365} state Block{minecraft:spawner} invalid for ticking:
+[04Jul2025 03:00:59.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDemente has made the advancement [Ambush]
+[04Jul2025 03:00:59.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDemente has made the advancement [Voluntary Exile]
+[04Jul2025 03:01:08.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04Jul2025 03:01:30.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[04Jul2025 03:01:47.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04Jul2025 03:01:57.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-753, y=69, z=-262} BlockPos{x=-753, y=68, z=-260}
+[04Jul2025 03:01:57.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-753, y=69, z=-262} BlockPos{x=-753, y=68, z=-260}
+[04Jul2025 03:01:57.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-753, y=69, z=-262} BlockPos{x=-753, y=68, z=-260}
+[04Jul2025 03:02:21.759] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YucaConSuero[/127.212.208.234:58031] logged in with entity id 36670 at (323.8847197781533, 71.0, -1078.300000011921)
+[04Jul2025 03:02:21.774] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player YucaConSuero
+[04Jul2025 03:02:21.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YucaConSuero joined the game
+[04Jul2025 03:02:25.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2566ms or 51 ticks behind
+[04Jul2025 03:02:49.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9322ms or 186 ticks behind
+[04Jul2025 03:03:10.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5856ms or 117 ticks behind
+[04Jul2025 03:03:31.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6041ms or 120 ticks behind
+[04Jul2025 03:03:52.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6172ms or 123 ticks behind
+[04Jul2025 03:03:59.199] [ForkJoinPool.commonPool-worker-23/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[04Jul2025 03:03:59.228] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2whatsapp2[/127.189.68.117:51689] logged in with entity id 37939 at (-811.4454715474094, 48.0, -167.43887085936987)
+[04Jul2025 03:03:59.242] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 2whatsapp2
+[04Jul2025 03:03:59.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 joined the game
+[04Jul2025 03:04:16.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8246ms or 164 ticks behind
+[04Jul2025 03:04:21.174] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/37986, l='ServerLevel[world]', x=-973.68, y=64.10, z=-262.88] died, message: 'Beekeeper was slain by Crocodile'
+[04Jul2025 03:04:31.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDemente> zzZ
+[04Jul2025 03:04:39.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asa1to> porqeu no puedo picar?
+[04Jul2025 03:04:40.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9476ms or 189 ticks behind
+[04Jul2025 03:04:43.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2whatsapp2 lost connection: Disconnected
+[04Jul2025 03:04:43.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 left the game
+[04Jul2025 03:04:46.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RannZai> por que eres gay
+[04Jul2025 03:04:52.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YucaConSuero> ARI
+[04Jul2025 03:04:59.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RannZai> mija, si estas por el spawn eso esta protegido
+[04Jul2025 03:05:01.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6392ms or 127 ticks behind
+[04Jul2025 03:05:04.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDemente> minimo tienes el modo pelea, dale a la R
+[04Jul2025 03:05:07.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asa1to lost connection: Disconnected
+[04Jul2025 03:05:07.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asa1to left the game
+[04Jul2025 03:05:09.777] [ForkJoinPool.commonPool-worker-23/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[04Jul2025 03:05:09.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2whatsapp2[/127.189.68.117:49415] logged in with entity id 38590 at (-807.4093875155373, 47.0, -166.30000001192093)
+[04Jul2025 03:05:09.851] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 2whatsapp2
+[04Jul2025 03:05:09.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 joined the game
+[04Jul2025 03:05:24.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7423ms or 148 ticks behind

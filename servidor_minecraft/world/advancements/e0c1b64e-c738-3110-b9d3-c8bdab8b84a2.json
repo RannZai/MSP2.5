@@ -58,6 +58,8 @@
       "minecraft:beach": "2025-07-03 03:49:35 +0000",
       "minecraft:lukewarm_ocean": "2025-07-03 03:57:08 +0000",
       "minecraft:river": "2025-07-03 03:47:32 +0000",
+      "minecraft:forest": "2025-07-04 02:57:49 +0000",
+      "minecraft:lush_caves": "2025-07-04 03:04:53 +0000",
       "minecraft:ocean": "2025-07-04 02:46:38 +0000",
       "minecraft:savanna": "2025-07-03 03:46:03 +0000",
       "minecraft:plains": "2025-07-03 03:42:57 +0000"
@@ -72,7 +74,11 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:crag_gardens": "2025-07-04 02:59:44 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-03 03:47:04 +0000",
+      "biomeswevegone:orchard": "2025-07-04 02:58:26 +0000",
+      "biomeswevegone:weeping_witch_forest": "2025-07-04 03:01:16 +0000",
+      "biomeswevegone:aspen_boreal": "2025-07-04 02:58:42 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-03 03:44:05 +0000"
     },
     "done": false
@@ -145,7 +151,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2025-07-03 03:54:56 +0000"
+      "cooked_porkchop": "2025-07-04 03:01:35 +0000",
+      "cooked_mutton": "2025-07-03 03:54:56 +0000",
+      "bread": "2025-07-04 03:02:38 +0000"
     },
     "done": false
   },
@@ -205,7 +213,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-07-04 02:37:39 +0000"
+      "minecraft:skeleton": "2025-07-04 02:37:39 +0000",
+      "minecraft:zombie": "2025-07-04 03:01:44 +0000"
     },
     "done": false
   },
@@ -245,6 +254,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-07-04 02:53:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-07-04 02:46:35 +0000"
@@ -254,6 +269,12 @@
   "mcwroofs:recipes/thatch": {
     "criteria": {
       "has_planks": "2025-07-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-07-04 03:01:04 +0000"
     },
     "done": true
   },
