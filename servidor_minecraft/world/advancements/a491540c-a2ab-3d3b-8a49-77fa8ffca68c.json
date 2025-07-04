@@ -105,6 +105,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-04 03:46:24 +0000",
       "cooked_mutton": "2025-07-03 04:19:01 +0000",
       "cooked_beef": "2025-07-03 03:25:39 +0000",
       "bread": "2025-07-03 04:51:46 +0000",
@@ -276,9 +277,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-04 03:45:30 +0000",
       "minecraft:skeleton": "2025-07-03 04:19:58 +0000",
       "minecraft:spider": "2025-07-03 04:13:56 +0000",
       "minecraft:creeper": "2025-07-04 03:13:22 +0000",
+      "minecraft:cave_spider": "2025-07-04 03:46:45 +0000",
       "minecraft:zombie": "2025-07-03 04:14:57 +0000",
       "minecraft:zombie_villager": "2025-07-03 04:18:25 +0000"
     },
@@ -422,6 +425,18 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-07-04 03:54:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 03:45:30 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-07-04 03:40:17 +0000"
@@ -431,6 +446,18 @@
   "mcwroofs:recipes/stone_bricks": {
     "criteria": {
       "has_planks": "2025-07-04 03:40:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 03:48:07 +0000"
     },
     "done": true
   },

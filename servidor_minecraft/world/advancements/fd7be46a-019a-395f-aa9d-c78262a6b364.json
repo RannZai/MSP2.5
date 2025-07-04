@@ -192,6 +192,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-07-04 03:47:16 +0000",
+      "minecraft:cave_spider": "2025-07-04 03:50:47 +0000",
       "minecraft:silverfish": "2025-07-04 02:51:49 +0000",
       "minecraft:zombie": "2025-07-04 02:56:39 +0000"
     },
@@ -287,15 +289,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-07-04 03:36:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-07-04 03:36:55 +0000"
     },
     "done": true
   },
-  "mcwroofs:recipes/oak": {
+  "artifacts:amateur_archaeologist": {
     "criteria": {
-      "has_planks": "2025-07-04 03:36:01 +0000"
+      "find_artifact": "2025-07-04 03:49:23 +0000"
     },
     "done": true
   },

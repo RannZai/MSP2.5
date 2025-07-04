@@ -374,7 +374,8 @@
       "minecraft:skeleton": "2025-07-04 03:03:05 +0000",
       "minecraft:creeper": "2025-07-03 05:12:54 +0000",
       "minecraft:cave_spider": "2025-07-04 03:15:57 +0000",
-      "minecraft:drowned": "2025-07-03 05:52:30 +0000"
+      "minecraft:drowned": "2025-07-03 05:52:30 +0000",
+      "minecraft:zombie_villager": "2025-07-04 03:52:39 +0000"
     },
     "done": false
   },
@@ -453,6 +454,12 @@
   "friendsandfoes:adventure/it_bites": {
     "criteria": {
       "killed_mauler": "2025-07-04 03:43:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 03:53:00 +0000"
     },
     "done": true
   },
