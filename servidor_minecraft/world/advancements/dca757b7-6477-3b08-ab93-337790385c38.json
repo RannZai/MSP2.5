@@ -51,6 +51,7 @@
     "criteria": {
       "minecraft:beach": "2025-07-03 03:51:55 +0000",
       "minecraft:river": "2025-07-03 03:25:01 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-04 04:51:50 +0000",
       "minecraft:forest": "2025-07-03 03:43:17 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-03 03:22:01 +0000",
       "minecraft:savanna": "2025-07-03 05:50:02 +0000",
@@ -105,6 +106,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-04 03:52:08 +0000",
       "cooked_beef": "2025-07-03 03:26:04 +0000",
+      "apple": "2025-07-04 05:11:38 +0000",
       "potato": "2025-07-04 02:31:12 +0000",
       "bread": "2025-07-03 03:33:01 +0000"
     },
@@ -484,6 +486,12 @@
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-07-04 04:25:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-07-04 05:10:54 +0000"
     },
     "done": true
   },

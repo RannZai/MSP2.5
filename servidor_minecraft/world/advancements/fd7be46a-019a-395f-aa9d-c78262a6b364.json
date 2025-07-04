@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-07-04 05:02:54 +0000",
       "minecraft:river": "2025-07-04 02:38:23 +0000",
       "minecraft:lukewarm_ocean": "2025-07-04 04:38:40 +0000",
       "minecraft:forest": "2025-07-04 04:11:22 +0000",
@@ -197,7 +198,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-04 05:04:43 +0000",
       "minecraft:spider": "2025-07-04 03:47:16 +0000",
+      "minecraft:creeper": "2025-07-04 05:18:25 +0000",
       "minecraft:cave_spider": "2025-07-04 03:50:47 +0000",
       "minecraft:silverfish": "2025-07-04 02:51:49 +0000",
       "minecraft:zombie": "2025-07-04 02:56:39 +0000"
@@ -330,6 +333,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-07-04 04:35:05 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-07-04 04:38:55 +0000"
@@ -348,9 +357,21 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/concrete": {
+  "tombstone:adventure/find_grave_dust": {
     "criteria": {
-      "has_planks": "2025-07-04 04:35:05 +0000"
+      "from_undead": "2025-07-04 05:12:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 05:12:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 05:18:45 +0000"
     },
     "done": true
   },
