@@ -891,3 +891,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jul2025 02:23:59.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-793, y=67, z=-213} BlockPos{x=-792, y=66, z=-214}
 [04Jul2025 02:24:12.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=67, z=-227} BlockPos{x=-801, y=65, z=-229}
 [04Jul2025 02:24:12.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-800, y=67, z=-227} BlockPos{x=-801, y=65, z=-229}
+[04Jul2025 02:24:34.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-796, y=66, z=-232} BlockPos{x=-797, y=65, z=-232}
+[04Jul2025 02:24:34.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-796, y=66, z=-232} BlockPos{x=-797, y=65, z=-232}
+[04Jul2025 02:25:00.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=66, z=-238} BlockPos{x=-805, y=64, z=-238}
+[04Jul2025 02:25:00.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=66, z=-238} BlockPos{x=-805, y=64, z=-238}
+[04Jul2025 02:25:00.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=66, z=-238} BlockPos{x=-805, y=64, z=-238}
+[04Jul2025 02:25:00.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=66, z=-237} BlockPos{x=-805, y=64, z=-238}
+[04Jul2025 02:26:50.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RannZai> ey mija y los demas?
+[04Jul2025 02:28:05.856] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1106, y=112, z=-725} BlockPos{x=-1105, y=112, z=-725}
+[04Jul2025 02:30:53.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RannZai> maricones esos
+[04Jul2025 02:31:14.968] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@262fe14e[id=<null>,name=2whatsapp2,properties={},legacy=false] (/127.189.68.117:60973) lost connection: Disconnected
+[04Jul2025 02:33:32.981] [ForkJoinPool.commonPool-worker-13/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[04Jul2025 02:33:33.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2whatsapp2[/127.189.68.117:55935] logged in with entity id 15764 at (-735.601572323442, 69.0, -280.2297049819393)
+[04Jul2025 02:33:33.061] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 2whatsapp2
+[04Jul2025 02:33:33.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 joined the game
