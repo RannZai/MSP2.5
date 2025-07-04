@@ -1049,3 +1049,60 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jul2025 03:05:09.851] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 2whatsapp2
 [04Jul2025 03:05:09.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 joined the game
 [04Jul2025 03:05:24.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7423ms or 148 ticks behind
+[04Jul2025 03:05:33.515] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/38662, l='ServerLevel[world]', x=-973.67, y=64.10, z=-262.83] died, message: 'Fletcher was slain by Crocodile'
+[04Jul2025 03:05:36.140] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@247a999[id=<null>,name=asa1to,properties={},legacy=false] (/127.220.255.130:45637) lost connection: Disconnected
+[04Jul2025 03:05:42.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3641ms or 72 ticks behind
+[04Jul2025 03:05:51.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asa1to[/127.220.255.130:43485] logged in with entity id 38971 at (-2622.699999988079, 18.0, -336.30000001192093)
+[04Jul2025 03:05:51.128] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player asa1to
+[04Jul2025 03:05:51.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asa1to joined the game
+[04Jul2025 03:05:57.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RannZai> mani hice el cofre de sangre
+[04Jul2025 03:06:01.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RannZai> esta cheto
+[04Jul2025 03:06:02.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4587ms or 91 ticks behind
+[04Jul2025 03:06:27.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10349ms or 206 ticks behind
+[04Jul2025 03:06:52.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9382ms or 187 ticks behind
+[04Jul2025 03:07:00.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asa1to> cuando pico lo que hace es que tira como un golpe
+[04Jul2025 03:07:06.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDemente> minimo tienes el modo pelea, dale a la R
+[04Jul2025 03:07:10.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2whatsapp2 lost connection: Timed out
+[04Jul2025 03:07:10.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 left the game
+[04Jul2025 03:07:11.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDemente> minimo tienes el modo pelea, dale a la R
+[04Jul2025 03:07:15.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8511ms or 170 ticks behind
+[04Jul2025 03:07:17.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RannZai> estas en modo combate
+[04Jul2025 03:07:25.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asa1to> ahhh ahora si
+[04Jul2025 03:07:37.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7281ms or 145 ticks behind
+[04Jul2025 03:07:50.271] [ForkJoinPool.commonPool-worker-23/WARN] [SkinRestorer/]: Failed to fetch skin: no profile with uuid fd7be46a-019a-395f-aa9d-c78262a6b364
+[04Jul2025 03:07:50.297] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2whatsapp2[/127.189.68.117:40243] logged in with entity id 40790 at (-804.3901246865795, 41.0, -163.75417695602184)
+[04Jul2025 03:07:50.311] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 2whatsapp2
+[04Jul2025 03:07:50.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 joined the game
+[04Jul2025 03:08:02.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9399ms or 187 ticks behind
+[04Jul2025 03:08:09.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RannZai> ey el pipi
+[04Jul2025 03:08:26.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9619ms or 192 ticks behind
+[04Jul2025 03:08:50.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9221ms or 184 ticks behind
+[04Jul2025 03:09:15.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9643ms or 192 ticks behind
+[04Jul2025 03:09:39.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8785ms or 175 ticks behind
+[04Jul2025 03:10:08.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13858ms or 277 ticks behind
+[04Jul2025 03:10:39.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16186ms or 323 ticks behind
+[04Jul2025 03:11:03.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asa1to lost connection: Disconnected
+[04Jul2025 03:11:03.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asa1to left the game
+[04Jul2025 03:11:06.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12005ms or 240 ticks behind
+[04Jul2025 03:11:23.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+[04Jul2025 03:14:45.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04Jul2025 03:15:05.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: Teleported RannZai to YucaConSuero]
+[04Jul2025 03:15:05.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[04Jul2025 03:16:39.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 was shot by Skeleton
+[04Jul2025 03:16:39.524] [Server thread/INFO] [tombstone/]: The player 2whatsapp2 has successfully been saved
+[04Jul2025 03:17:38.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 has made the advancement [Acquire Hardware]
+[04Jul2025 03:20:07.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 has made the advancement [Isn't It Iron Pick]
+[04Jul2025 03:20:57.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Jul2025 03:21:18.761] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RannZai lost connection: Timed out
+[04Jul2025 03:21:18.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RannZai left the game
+[04Jul2025 03:22:11.757] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@678ae66e[id=<null>,name=RannZai,properties={},legacy=false] (/127.189.68.117:33503) lost connection: Disconnected
+[04Jul2025 03:24:22.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of YucaConSuero) moved wrongly! 0.25268236573504055
+[04Jul2025 03:24:22.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of YucaConSuero) moved wrongly! 0.5006629313463691
+[04Jul2025 03:24:22.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of YucaConSuero) moved wrongly! 0.6333523878059282
+[04Jul2025 03:24:53.231] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RannZai[/127.189.68.117:39417] logged in with entity id 51559 at (-1066.7141658113046, 115.0, -716.7462556049592)
+[04Jul2025 03:24:53.246] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player RannZai
+[04Jul2025 03:24:53.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RannZai joined the game
+[04Jul2025 03:25:10.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of YucaConSuero) moved wrongly! 0.3743028119558858
+[04Jul2025 03:25:10.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of YucaConSuero) moved wrongly! 0.7406664463572952
+[04Jul2025 03:25:23.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RannZai lost connection: Timed out
+[04Jul2025 03:25:23.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RannZai left the game

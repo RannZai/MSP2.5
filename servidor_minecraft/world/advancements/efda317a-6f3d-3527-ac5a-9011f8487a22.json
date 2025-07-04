@@ -94,11 +94,13 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:sakura_grove": "2025-07-04 03:25:08 +0000",
       "biomeswevegone:temperate_grove": "2025-07-03 03:25:21 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-03 04:14:24 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-03 03:41:48 +0000",
       "biomeswevegone:orchard": "2025-07-03 04:15:56 +0000",
       "biomeswevegone:amaranth_grassland": "2025-07-03 03:51:49 +0000",
+      "biomeswevegone:weeping_witch_forest": "2025-07-04 03:21:49 +0000",
       "biomeswevegone:prairie": "2025-07-03 04:28:10 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-03 03:30:35 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-03 03:25:34 +0000",
@@ -369,7 +371,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-03 05:02:38 +0000",
+      "minecraft:skeleton": "2025-07-04 03:03:05 +0000",
       "minecraft:creeper": "2025-07-03 05:12:54 +0000",
+      "minecraft:cave_spider": "2025-07-04 03:15:57 +0000",
       "minecraft:drowned": "2025-07-03 05:52:30 +0000"
     },
     "done": false

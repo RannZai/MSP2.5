@@ -55,7 +55,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2025-07-04 03:10:00 +0000",
       "minecraft:beach": "2025-07-03 03:49:35 +0000",
+      "minecraft:sparse_jungle": "2025-07-04 03:10:02 +0000",
       "minecraft:lukewarm_ocean": "2025-07-03 03:57:08 +0000",
       "minecraft:river": "2025-07-03 03:47:32 +0000",
       "minecraft:forest": "2025-07-04 02:57:49 +0000",
@@ -224,15 +226,27 @@
     },
     "done": true
   },
-  "vinery:main/forbidden_fruit": {
-    "criteria": {
-      "apple": "2025-07-04 02:41:44 +0000"
-    },
-    "done": true
-  },
   "mcwroofs:recipes/gutters": {
     "criteria": {
       "has_planks": "2025-07-04 02:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-04 02:41:12 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-07-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-07-04 02:41:44 +0000"
     },
     "done": true
   },
@@ -242,9 +256,9 @@
     },
     "done": false
   },
-  "minecraft:story/smelt_iron": {
+  "farmersdelight:main/craft_knife": {
     "criteria": {
-      "iron": "2025-07-04 02:41:12 +0000"
+      "iron_knife": "2025-07-04 02:46:35 +0000"
     },
     "done": true
   },
@@ -257,18 +271,6 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-07-04 02:53:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "iron_knife": "2025-07-04 02:46:35 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/thatch": {
-    "criteria": {
-      "has_planks": "2025-07-04 02:41:38 +0000"
     },
     "done": true
   },
