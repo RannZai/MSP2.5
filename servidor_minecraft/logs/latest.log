@@ -852,3 +852,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jul2025 02:03:29.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: Teleported 2whatsapp2 to TheDemente]
 [04Jul2025 02:03:51.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 has made the advancement [Sweet Dreams]
 [04Jul2025 02:03:53.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDemente> zzZ
+[04Jul2025 02:09:18.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2whatsapp2 lost connection: Timed out
+[04Jul2025 02:09:18.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 left the game
+[04Jul2025 02:09:18.373] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jul2025 02:09:33.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RannZai> se le exploto? jajaja
+[04Jul2025 02:09:58.892] [ForkJoinPool.commonPool-worker-8/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[04Jul2025 02:09:58.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2whatsapp2[/127.189.68.117:60951] logged in with entity id 6919 at (-756.0369815614836, 69.0, -274.6349358052743)
+[04Jul2025 02:09:58.938] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 2whatsapp2
+[04Jul2025 02:09:58.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 joined the game
+[04Jul2025 02:10:48.816] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 526.4 μs. 169/169 recipes are parallelized.
+[04Jul2025 02:11:14.758] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.599 ms. 5054/5220 recipes are parallelized.
+[04Jul2025 02:13:44.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2whatsapp2 lost connection: Timed out
+[04Jul2025 02:13:44.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 left the game
