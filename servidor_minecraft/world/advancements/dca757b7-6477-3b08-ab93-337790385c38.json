@@ -90,6 +90,7 @@
       "biomeswevegone:forgotten_forest": "2025-07-03 03:41:34 +0000",
       "biomeswevegone:orchard": "2025-07-03 03:52:37 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-03 05:44:21 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-07-04 05:25:30 +0000",
       "biomeswevegone:prairie": "2025-07-03 04:15:47 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-03 03:29:33 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-03 03:25:07 +0000"
@@ -486,6 +487,12 @@
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-07-04 04:25:20 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-07-04 05:30:53 +0000"
     },
     "done": true
   },

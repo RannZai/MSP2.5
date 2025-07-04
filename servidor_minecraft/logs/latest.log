@@ -1005,3 +1005,46 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jul2025 05:25:43.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37246, l='ServerLevel[world]', x=340.32, y=68.00, z=-1037.61] died, message: 'Villager was slain by Zombie Villager'
 [04Jul2025 05:25:46.836] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/39341, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
 [04Jul2025 05:25:50.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: Teleported YucaConSuero to RannZai]
+[04Jul2025 05:30:53.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDemente has made the advancement [Chest Slayer]
+[04Jul2025 05:31:31.731] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/40826, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[04Jul2025 05:35:41.772] [Server thread/WARN] [tombstone/]: The death event of the player YucaConSuero was canceled by another mod
+[04Jul2025 05:35:41.780] [Server thread/INFO] [tombstone/]: The player YucaConSuero has successfully been saved
+[04Jul2025 05:35:54.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RannZai was slain by Forgotten
+[04Jul2025 05:35:54.219] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for RannZai with unique ID travelersbackpack.standard_04.07.2025-05.35.54.dat
+[04Jul2025 05:35:54.247] [Server thread/INFO] [tombstone/]: The player RannZai has successfully been saved
+[04Jul2025 05:36:03.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RannZai was slain by Zombie
+[04Jul2025 05:36:03.132] [Server thread/INFO] [tombstone/]: The player RannZai has successfully been saved
+[04Jul2025 05:36:14.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: Teleported RannZai to TheDemente]
+[04Jul2025 05:36:42.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YucaConSuero has made the advancement [I always come back]
+[04Jul2025 05:36:51.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: Teleported RannZai to TheDemente]
+[04Jul2025 05:37:04.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YucaConSuero was slain by Zombie
+[04Jul2025 05:37:04.740] [Server thread/INFO] [tombstone/]: The player YucaConSuero has successfully been saved
+[04Jul2025 05:37:17.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: Teleported YucaConSuero to RannZai]
+[04Jul2025 05:38:03.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YucaConSuero has made the advancement [Isn't It Iron Pick]
+[04Jul2025 05:38:59.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2whatsapp2 moved wrongly!
+[04Jul2025 05:39:33.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDemente was slain by Zombie
+[04Jul2025 05:39:33.875] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for TheDemente with unique ID travelersbackpack.skeleton_04.07.2025-05.39.33.dat
+[04Jul2025 05:39:33.888] [Server thread/INFO] [tombstone/]: The player TheDemente has successfully been saved
+[04Jul2025 05:39:42.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YucaConSuero lost connection: Disconnected
+[04Jul2025 05:39:42.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YucaConSuero left the game
+[04Jul2025 05:39:54.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: Teleported TheDemente to RannZai]
+[04Jul2025 05:40:03.825] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/44993, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[04Jul2025 05:40:11.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: Teleported 2whatsapp2 to RannZai]
+[04Jul2025 05:40:12.318] [Server thread/WARN] [tombstone/]: The death event of the player 2whatsapp2 was canceled by another mod
+[04Jul2025 05:40:12.326] [Server thread/INFO] [tombstone/]: The player 2whatsapp2 has successfully been saved
+[04Jul2025 05:40:22.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After 2whatsapp2 was slain by RannZai, they gave up
+[04Jul2025 05:40:22.133] [Server thread/INFO] [tombstone/]: The player 2whatsapp2 has successfully been saved
+[04Jul2025 05:40:32.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: Teleported 2whatsapp2 to RannZai]
+[04Jul2025 05:41:20.140] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YucaConSuero[/127.212.208.234:56173] logged in with entity id 45474 at (-1304.699999988079, -33.0, -207.45523669347665)
+[04Jul2025 05:41:20.155] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player YucaConSuero
+[04Jul2025 05:41:20.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YucaConSuero joined the game
+[04Jul2025 05:41:30.884] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/45652, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[04Jul2025 05:41:37.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: Teleported YucaConSuero to RannZai]
+[04Jul2025 05:41:46.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: Set own game mode to Spectator Mode]
+[04Jul2025 05:42:02.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: Set own game mode to Survival Mode]
+[04Jul2025 05:44:11.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: RannZai is now a Vampire level 1]
+[04Jul2025 05:44:41.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDemente has made the advancement [Diamonds!]
+[04Jul2025 05:45:03.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: RannZai is now a Vampire level 0]
+[04Jul2025 05:45:12.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: YucaConSuero is now a Vampire level 0]
+[04Jul2025 05:45:17.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: 2whatsapp2 is now a Vampire level 0]
+[04Jul2025 05:45:29.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: Teleported 4 entities to TheDemente]
