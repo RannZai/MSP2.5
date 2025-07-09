@@ -57,6 +57,7 @@
     "criteria": {
       "minecraft:beach": "2025-07-09 02:27:50 +0000",
       "minecraft:river": "2025-07-09 02:11:16 +0000",
+      "minecraft:forest": "2025-07-09 02:45:41 +0000",
       "minecraft:savanna": "2025-07-09 02:26:51 +0000",
       "minecraft:plains": "2025-07-09 02:06:25 +0000"
     },
@@ -115,6 +116,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-07-09 02:33:03 +0000",
+      "cooked_beef": "2025-07-09 02:38:43 +0000",
+      "baked_potato": "2025-07-09 02:42:23 +0000",
       "bread": "2025-07-09 02:22:32 +0000",
       "cooked_chicken": "2025-07-09 02:15:00 +0000"
     },
@@ -132,9 +135,21 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-09 02:38:56 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-07-09 02:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-09 02:38:57 +0000"
     },
     "done": true
   },
@@ -144,11 +159,35 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-07-09 02:40:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-09 02:29:48 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-09 02:44:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-09 02:44:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-07-09 02:41:15 +0000"
+    },
+    "done": false
   },
   "mcwroofs:recipes/cobblestone": {
     "criteria": {
