@@ -921,3 +921,64 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 02:11:53.106] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/15552, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
 [09Jul2025 02:12:17.404] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/15886, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
 [09Jul2025 02:12:23.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[09Jul2025 02:12:41.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
+[09Jul2025 02:12:46.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Esteban_king28 has made the advancement [Sweet Dreams]
+[09Jul2025 02:12:46.984] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/15463, l='ServerLevel[world]', x=-984.06, y=66.10, z=-256.83] died, message: 'Cartographer suffocated in a wall whilst fighting Crocodile'
+[09Jul2025 02:12:58.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[09Jul2025 02:13:04.589] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@31f97892[id=<null>,name=Zhepus,properties={},legacy=false] (/127.115.233.244:50005): Took too long to log in
+[09Jul2025 02:13:04.590] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@31f97892[id=<null>,name=Zhepus,properties={},legacy=false] (/127.115.233.244:50005) lost connection: Took too long to log in
+[09Jul2025 02:13:04.640] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jul2025 02:13:21.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YucaConSuero> x
+[09Jul2025 02:13:45.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Esteban_king28> duerman cachones
+[09Jul2025 02:13:51.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Esteban_king28> quienes faltan?
+[09Jul2025 02:14:04.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: llKurou has made the advancement [Sweet Dreams]
+[09Jul2025 02:14:24.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RannZai> zzzzzzzzzzz
+[09Jul2025 02:14:26.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RannZai> zzzzzzzzzzzzzzzzzzzzzzz
+[09Jul2025 02:14:27.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <llKurou> zzzzzzzzzzzz
+[09Jul2025 02:14:29.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YucaConSuero> joa
+[09Jul2025 02:14:29.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <llKurou> zzzzzzzzzzzzzzz
+[09Jul2025 02:14:40.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YucaConSuero> zz
+[09Jul2025 02:14:47.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Esteban_king28> quien falta por dormir
+[09Jul2025 02:14:50.071] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6d1d2ce6[id=<null>,name=Zhepus,properties={},legacy=false] (/127.115.233.244:58007): Took too long to log in
+[09Jul2025 02:14:50.071] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d1d2ce6[id=<null>,name=Zhepus,properties={},legacy=false] (/127.115.233.244:58007) lost connection: Took too long to log in
+[09Jul2025 02:14:50.119] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jul2025 02:14:54.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Esteban_king28> joa na mas yo
+[09Jul2025 02:15:43.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanKxx1 was slain by Zombie
+[09Jul2025 02:15:43.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanKxx1 has made the advancement [Your First Grave]
+[09Jul2025 02:15:43.386] [Server thread/INFO] [tombstone/]: The player JuanKxx1 has successfully been saved
+[09Jul2025 02:15:51.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Esteban_king28 has made the advancement [Stone Age]
+[09Jul2025 02:16:36.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: llKurou has made the advancement [Stone Age]
+[09Jul2025 02:16:58.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RannZai: Summoned new Lightning Bolt]
+[09Jul2025 02:17:02.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JuanKxx1 lost connection: Disconnected
+[09Jul2025 02:17:02.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanKxx1 left the game
+[09Jul2025 02:17:10.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RannZai> DUERMANNNNNNNNNNNNNNN
+[09Jul2025 02:17:22.180] [ForkJoinPool.commonPool-worker-19/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[09Jul2025 02:17:22.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JuanKxx1[/127.1.136.252:60383] logged in with entity id 18058 at (-795.2131025653729, 68.0, -231.25349926572775)
+[09Jul2025 02:17:22.230] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player JuanKxx1
+[09Jul2025 02:17:22.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanKxx1 joined the game
+[09Jul2025 02:17:32.649] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/15043, l='ServerLevel[world]', x=-987.80, y=67.22, z=-251.14] died, message: 'Beekeeper suffocated in a wall whilst fighting Crocodile'
+[09Jul2025 02:17:37.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Esteban_king28 has made the advancement [Getting an Upgrade]
+[09Jul2025 02:17:45.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 has made the advancement [Chompy]
+[09Jul2025 02:17:56.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2whatsapp2 lost connection: Disconnected
+[09Jul2025 02:17:56.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 left the game
+[09Jul2025 02:17:59.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: llKurou has made the advancement [Monster Hunter]
+[09Jul2025 02:18:13.251] [ForkJoinPool.commonPool-worker-19/WARN] [SkinRestorer/]: Failed to fetch skin: no profile with uuid fd7be46a-019a-395f-aa9d-c78262a6b364
+[09Jul2025 02:18:13.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2whatsapp2[/127.189.68.117:50601] logged in with entity id 18515 at (-984.0092314756355, 66.52159999996424, -254.76060701159017)
+[09Jul2025 02:18:13.322] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 2whatsapp2
+[09Jul2025 02:18:13.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 joined the game
+[09Jul2025 02:18:19.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 has reached the goal [Strong or Careful]
+[09Jul2025 02:18:19.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 was slain by Crocodile
+[09Jul2025 02:18:19.562] [Server thread/INFO] [tombstone/]: The player 2whatsapp2 has successfully been saved
+[09Jul2025 02:18:29.964] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/18681, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[09Jul2025 02:18:32.705] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68dd5060[id=<null>,name=Zhepus,properties={},legacy=false] (/127.115.233.244:41943) lost connection: Disconnected
+[09Jul2025 02:18:59.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 has reached the goal [Chain Death]
+[09Jul2025 02:18:59.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 was slain by Crocodile
+[09Jul2025 02:18:59.516] [Server thread/INFO] [tombstone/]: The player 2whatsapp2 has successfully been saved
+[09Jul2025 02:20:01.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: llKurou was blown up by Creeper
+[09Jul2025 02:20:01.711] [Server thread/INFO] [tombstone/]: The player llKurou has successfully been saved
+[09Jul2025 02:20:13.160] [ForkJoinPool.commonPool-worker-21/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[09Jul2025 02:20:13.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zhepus[/127.120.139.95:50889] logged in with entity id 19264 at (-808.2257968846252, 66.0, -398.88539901873696)
+[09Jul2025 02:20:13.231] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Zhepus
+[09Jul2025 02:20:13.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhepus joined the game
+[09Jul2025 02:22:34.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[09Jul2025 02:22:42.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhepus has made the advancement [Forbidden Fruit]

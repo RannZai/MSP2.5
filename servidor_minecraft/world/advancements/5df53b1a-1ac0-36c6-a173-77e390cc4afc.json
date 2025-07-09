@@ -5,6 +5,24 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-07-09 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia_planks": {
+    "criteria": {
+      "has_planks": "2025-07-09 02:09:32 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-07-09 02:09:38 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/root": {
     "criteria": {
       "tick": "2025-07-09 02:06:42 +0000"
@@ -14,6 +32,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-07-09 02:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-09 02:15:51 +0000"
     },
     "done": true
   },
@@ -29,21 +53,101 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-09 02:17:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-07-09 02:08:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:ironwood_gour": "2025-07-09 02:11:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-09 02:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-09 02:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-09 02:08:39 +0000"
+    },
+    "done": false
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-07-09 02:06:42 +0000"
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:ironwood_gour": "2025-07-09 02:11:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-09 02:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-07-09 02:12:01 +0000",
+      "minecraft:savanna": "2025-07-09 02:09:01 +0000",
       "minecraft:plains": "2025-07-09 02:06:43 +0000"
     },
     "done": false
   },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-09 02:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_chicken": "2025-07-09 02:17:16 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-07-09 02:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-09 02:08:42 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-07-09 02:06:42 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2025-07-09 02:15:51 +0000"
     },
     "done": true
   },
@@ -56,6 +160,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-07-09 02:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-09 02:09:38 +0000"
     },
     "done": true
   },
