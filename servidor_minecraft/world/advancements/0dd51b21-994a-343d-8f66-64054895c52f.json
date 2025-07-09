@@ -69,6 +69,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:sakura_grove": "2025-07-09 03:00:32 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-09 02:28:16 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-09 02:24:33 +0000"
     },
@@ -131,15 +132,27 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2025-07-09 02:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-07-09 02:40:03 +0000"
     },
     "done": true
   },
-  "mcwroofs:recipes/cobblestone": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "has_planks": "2025-07-09 02:34:58 +0000"
+      "iron_chestplate": "2025-07-09 02:51:11 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-07-09 02:59:54 +0000"
     },
     "done": true
   },

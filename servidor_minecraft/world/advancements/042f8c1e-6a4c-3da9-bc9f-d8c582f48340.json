@@ -101,6 +101,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:forgotten_forest": "2025-07-09 02:53:33 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-09 02:26:56 +0000",
       "biomeswevegone:prairie": "2025-07-09 02:12:54 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-09 02:11:36 +0000"
@@ -153,9 +154,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-07-09 02:54:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-07-09 02:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-09 02:56:42 +0000"
     },
     "done": true
   },

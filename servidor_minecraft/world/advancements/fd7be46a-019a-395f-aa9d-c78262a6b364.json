@@ -402,9 +402,9 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/birch": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "has_planks": "2025-07-09 02:27:24 +0000"
+      "coded_trigger": "2025-07-09 02:18:19 +0000"
     },
     "done": true
   },
@@ -414,9 +414,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
+  "mcwroofs:recipes/birch": {
     "criteria": {
-      "coded_trigger": "2025-07-09 02:18:19 +0000"
+      "has_planks": "2025-07-09 02:27:24 +0000"
     },
     "done": true
   },
