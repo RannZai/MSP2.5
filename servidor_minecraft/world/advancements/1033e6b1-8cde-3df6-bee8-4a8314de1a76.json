@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-07-09 02:26:48 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/root": {
     "criteria": {
       "tick": "2025-07-09 02:08:57 +0000"
@@ -20,6 +26,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-07-09 02:08:57 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-07-09 02:25:32 +0000"
     },
     "done": true
   },
@@ -53,8 +65,15 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-09 02:27:57 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:ironwood_gour": "2025-07-09 02:31:31 +0000",
       "biomeswevegone:prairie": "2025-07-09 02:14:04 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-09 02:14:01 +0000"
     },
@@ -98,14 +117,34 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-07-09 02:34:19 +0000",
       "minecraft:river": "2025-07-09 02:13:38 +0000",
+      "minecraft:savanna": "2025-07-09 02:31:45 +0000",
       "minecraft:plains": "2025-07-09 02:08:58 +0000"
     },
     "done": false
   },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-09 02:22:27 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/thatch": {
     "criteria": {
       "has_planks": "2025-07-09 02:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-07-09 02:22:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-09 02:22:27 +0000"
     },
     "done": true
   },
@@ -124,6 +163,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-07-09 02:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-09 02:26:48 +0000"
     },
     "done": true
   },

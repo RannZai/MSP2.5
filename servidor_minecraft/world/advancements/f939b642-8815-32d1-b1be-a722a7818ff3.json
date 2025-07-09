@@ -1,10 +1,4 @@
 {
-  "vinery:main/fruits_of_the_field": {
-    "criteria": {
-      "fruits_of_the_field": "2025-07-09 01:58:01 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:biomeswevegone/root": {
     "criteria": {
       "tick": "2025-07-09 01:58:00 +0000"
@@ -35,21 +29,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2025-07-09 01:58:01 +0000"
-    },
-    "done": false
-  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-07-09 01:58:00 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-07-09 01:58:01 +0000"
     },
     "done": true
   },
@@ -62,6 +44,156 @@
   "vinery:main/root": {
     "criteria": {
       "seeds": "2025-07-09 01:58:00 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-07-09 01:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-07-09 02:28:30 +0000",
+      "minecraft:river": "2025-07-09 02:26:58 +0000",
+      "minecraft:savanna": "2025-07-09 02:24:04 +0000",
+      "minecraft:plains": "2025-07-09 01:58:01 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-07-09 01:58:01 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-07-09 02:24:24 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-07-09 02:23:22 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-07-09 02:21:16 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak_planks": {
+    "criteria": {
+      "has_planks": "2025-07-09 02:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-09 02:24:24 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-07-09 02:22:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-07-09 02:22:42 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:firecracker_chaparral": "2025-07-09 02:36:27 +0000",
+      "biomeswevegone:ironwood_gour": "2025-07-09 02:26:55 +0000",
+      "biomeswevegone:allium_shrubland": "2025-07-09 02:21:17 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "red_savanna_grape_seeds": "2025-07-09 02:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-09 02:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-09 02:35:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:allium_shrubland": "2025-07-09 02:21:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-09 02:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-09 02:31:52 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-07-09 02:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-07-09 02:25:30 +0000",
+      "bread": "2025-07-09 02:29:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-09 02:25:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-07-09 02:31:52 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2025-07-09 02:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-09 02:23:22 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-07-09 02:36:43 +0000"
     },
     "done": true
   },
