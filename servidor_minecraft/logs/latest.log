@@ -867,3 +867,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 00:37:21.373] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@56d3685c[id=<null>,name=Zhepus,properties={},legacy=false] (/127.115.233.244:49383): Took too long to log in
 [09Jul2025 00:37:21.373] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56d3685c[id=<null>,name=Zhepus,properties={},legacy=false] (/127.115.233.244:49383) lost connection: Took too long to log in
 [09Jul2025 00:37:21.420] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jul2025 00:39:54.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2whatsapp2 lost connection: Disconnected
+[09Jul2025 00:39:54.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 left the game
+[09Jul2025 00:42:43.863] [ForkJoinPool.commonPool-worker-7/WARN] [SkinRestorer/]: Failed to fetch skin: no profile with uuid fd7be46a-019a-395f-aa9d-c78262a6b364
+[09Jul2025 00:42:43.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2whatsapp2[/127.189.68.117:33433] logged in with entity id 4102 at (-866.3492225697393, 66.0, 15.699999988079071)
+[09Jul2025 00:42:43.942] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 2whatsapp2
+[09Jul2025 00:42:43.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 joined the game
+[09Jul2025 00:44:55.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RannZai lost connection: Disconnected
+[09Jul2025 00:44:55.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RannZai left the game
+[09Jul2025 00:45:00.162] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2adf8ad1[id=<null>,name=Zhepus,properties={},legacy=false] (/127.115.233.244:44747): Took too long to log in
+[09Jul2025 00:45:00.162] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2adf8ad1[id=<null>,name=Zhepus,properties={},legacy=false] (/127.115.233.244:44747) lost connection: Took too long to log in
+[09Jul2025 00:45:00.210] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jul2025 00:46:44.619] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.725 ms. 5054/5220 recipes are parallelized.
+[09Jul2025 00:46:57.465] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6bf4bbda[id=<null>,name=Zhepus,properties={},legacy=false] (/127.115.233.244:37145) lost connection: Disconnected
