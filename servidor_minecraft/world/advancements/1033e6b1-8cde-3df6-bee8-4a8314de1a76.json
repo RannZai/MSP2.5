@@ -325,11 +325,24 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-07-09 04:41:50 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-07-09 04:18:54 +0000"
+      "apple": "2025-07-09 04:18:54 +0000",
+      "golden_apple": "2025-07-09 04:34:14 +0000"
     },
     "done": false
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-07-09 04:37:38 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

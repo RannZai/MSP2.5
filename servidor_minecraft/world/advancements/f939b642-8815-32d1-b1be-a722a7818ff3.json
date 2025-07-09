@@ -328,17 +328,17 @@
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:cow": "2025-07-09 04:26:57 +0000"
-    },
-    "done": false
-  },
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-07-09 04:22:07 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-07-09 04:26:57 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {

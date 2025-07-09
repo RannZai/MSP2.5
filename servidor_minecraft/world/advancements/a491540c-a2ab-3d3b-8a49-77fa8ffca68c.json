@@ -613,6 +613,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2025-07-09 04:43:11 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/granite": {
     "criteria": {
       "has_planks": "2025-07-09 04:15:16 +0000"
