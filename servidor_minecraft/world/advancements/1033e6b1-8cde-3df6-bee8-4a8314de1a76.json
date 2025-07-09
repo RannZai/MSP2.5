@@ -57,6 +57,7 @@
     "criteria": {
       "minecraft:beach": "2025-07-09 02:34:19 +0000",
       "minecraft:river": "2025-07-09 02:13:38 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-09 03:29:57 +0000",
       "minecraft:savanna": "2025-07-09 02:31:45 +0000",
       "minecraft:plains": "2025-07-09 02:08:58 +0000"
     },
@@ -258,6 +259,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-09 03:29:48 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/andesite": {
     "criteria": {
       "has_planks": "2025-07-09 03:01:18 +0000"
@@ -267,6 +274,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-09 03:03:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-07-09 03:28:00 +0000"
     },
     "done": true
   },

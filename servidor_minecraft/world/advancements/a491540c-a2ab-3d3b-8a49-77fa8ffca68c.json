@@ -564,6 +564,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-07-09 03:27:25 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-07-09 03:12:39 +0000"

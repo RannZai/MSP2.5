@@ -107,6 +107,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-09 03:19:34 +0000",
       "cooked_beef": "2025-07-09 02:12:35 +0000",
       "baked_potato": "2025-07-04 03:21:48 +0000",
       "apple": "2025-07-04 02:56:06 +0000",
@@ -418,6 +419,18 @@
   "mcwroofs:recipes/birch": {
     "criteria": {
       "has_planks": "2025-07-09 02:27:24 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-07-09 03:22:36 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-07-09 03:22:36 +0000"
     },
     "done": true
   },
