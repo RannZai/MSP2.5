@@ -599,6 +599,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2025-07-09 03:02:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-07-09 02:44:18 +0000"
@@ -608,6 +614,12 @@
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-07-09 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-07-09 03:02:39 +0000"
     },
     "done": true
   },
