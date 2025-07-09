@@ -90,6 +90,7 @@
       "biomeswevegone:sakura_grove": "2025-07-03 05:22:09 +0000",
       "biomeswevegone:temperate_grove": "2025-07-03 03:24:56 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-03 03:27:07 +0000",
+      "biomeswevegone:lush_stacks": "2025-07-09 04:14:03 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-03 03:32:35 +0000",
       "biomeswevegone:orchard": "2025-07-04 03:16:42 +0000",
       "biomeswevegone:amaranth_grassland": "2025-07-04 05:23:51 +0000",
@@ -573,6 +574,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-09 04:12:53 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-07-09 03:12:39 +0000"
@@ -582,6 +589,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-07-09 04:01:37 +0000",
+      "minecraft:soul_sand_valley": "2025-07-09 04:13:21 +0000",
       "minecraft:basalt_deltas": "2025-07-09 03:55:24 +0000"
     },
     "done": false
@@ -592,9 +600,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-09 04:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-09 03:55:23 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2025-07-09 04:15:16 +0000"
     },
     "done": true
   },
@@ -607,6 +627,12 @@
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2025-07-09 04:09:36 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/diorite": {
+    "criteria": {
+      "has_planks": "2025-07-09 04:15:01 +0000"
     },
     "done": true
   },

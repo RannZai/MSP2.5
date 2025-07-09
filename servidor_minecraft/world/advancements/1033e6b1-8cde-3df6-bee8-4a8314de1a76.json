@@ -104,7 +104,9 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:ironwood_gour": "2025-07-09 02:31:31 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-07-09 04:16:45 +0000",
       "biomeswevegone:prairie": "2025-07-09 02:14:04 +0000",
+      "biomeswevegone:basalt_barrera": "2025-07-09 04:24:50 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-09 04:05:56 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-09 02:14:01 +0000"
     },
@@ -303,6 +305,24 @@
       "in_fire": "2025-07-09 04:02:23 +0000"
     },
     "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-07-09 04:14:55 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-07-09 04:18:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-07-09 04:18:54 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
