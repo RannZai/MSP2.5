@@ -589,6 +589,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-07-09 04:01:44 +0000",
       "minecraft:basalt_deltas": "2025-07-09 02:48:03 +0000"
     },
     "done": false

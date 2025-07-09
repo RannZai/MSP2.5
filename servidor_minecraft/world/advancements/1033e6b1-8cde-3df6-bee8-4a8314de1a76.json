@@ -284,5 +284,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-09 04:01:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-07-09 04:01:25 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
