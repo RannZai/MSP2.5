@@ -159,7 +159,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-07-09 02:22:27 +0000"
+      "bread": "2025-07-09 02:22:27 +0000",
+      "golden_apple": "2025-07-09 04:52:16 +0000"
     },
     "done": false
   },
@@ -313,21 +314,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2025-07-09 04:26:06 +0000"
-    },
-    "done": true
-  },
   "vinery:main/forbidden_fruit": {
     "criteria": {
       "apple": "2025-07-09 04:18:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "rice": "2025-07-09 04:41:50 +0000"
     },
     "done": true
   },
@@ -338,9 +327,33 @@
     },
     "done": false
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-07-09 04:26:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2025-07-09 04:37:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-07-09 04:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-09 04:52:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-07-09 04:54:07 +0000"
     },
     "done": true
   },

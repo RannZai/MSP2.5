@@ -81,7 +81,9 @@
     "criteria": {
       "minecraft:spider": "2025-07-09 02:55:50 +0000",
       "minecraft:silverfish": "2025-07-09 04:05:07 +0000",
-      "minecraft:zombie": "2025-07-09 02:08:39 +0000"
+      "minecraft:zombie": "2025-07-09 02:08:39 +0000",
+      "minecraft:drowned": "2025-07-09 04:53:08 +0000",
+      "minecraft:zombie_villager": "2025-07-09 04:55:47 +0000"
     },
     "done": false
   },
@@ -315,6 +317,24 @@
   "mcwroofs:recipes/bricks": {
     "criteria": {
       "has_planks": "2025-07-09 04:33:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-07-09 04:45:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-07-09 04:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2025-07-09 04:48:12 +0000"
     },
     "done": true
   },
