@@ -496,9 +496,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-07-04 06:06:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-07-04 05:10:54 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-07-04 06:06:41 +0000"
     },
     "done": true
   },

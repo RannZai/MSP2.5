@@ -359,21 +359,9 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/oak_planks": {
-    "criteria": {
-      "has_planks": "2025-07-04 05:46:56 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-07-04 05:12:31 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/become_vampire": {
-    "criteria": {
-      "main": "2025-07-04 05:33:24 +0000"
     },
     "done": true
   },
@@ -386,6 +374,24 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-07-04 05:18:45 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-07-04 05:33:24 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak_planks": {
+    "criteria": {
+      "has_planks": "2025-07-04 05:46:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-07-04 05:58:30 +0000"
     },
     "done": true
   },

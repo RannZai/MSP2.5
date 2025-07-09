@@ -526,15 +526,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-07-04 04:52:06 +0000"
-    },
-    "done": true
-  },
   "evilcraft:cannibal": {
     "criteria": {
       "criteria_0": "2025-07-04 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-07-04 04:44:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-04 04:52:06 +0000"
     },
     "done": true
   },
@@ -544,9 +550,9 @@
     },
     "done": true
   },
-  "paraglider:paraglider": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "paraglider": "2025-07-04 04:44:35 +0000"
+      "diamond_helmet": "2025-07-04 05:58:54 +0000"
     },
     "done": true
   },
