@@ -58,6 +58,7 @@
       "minecraft:beach": "2025-07-09 02:34:19 +0000",
       "minecraft:river": "2025-07-09 02:13:38 +0000",
       "minecraft:lukewarm_ocean": "2025-07-09 03:29:57 +0000",
+      "minecraft:stony_shore": "2025-07-09 04:26:14 +0000",
       "minecraft:forest": "2025-07-09 03:47:25 +0000",
       "minecraft:ocean": "2025-07-09 04:07:57 +0000",
       "minecraft:savanna": "2025-07-09 02:31:45 +0000",
@@ -309,6 +310,12 @@
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-07-09 04:14:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-07-09 04:26:06 +0000"
     },
     "done": true
   },

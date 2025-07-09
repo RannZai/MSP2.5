@@ -312,5 +312,11 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/bricks": {
+    "criteria": {
+      "has_planks": "2025-07-09 04:33:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
