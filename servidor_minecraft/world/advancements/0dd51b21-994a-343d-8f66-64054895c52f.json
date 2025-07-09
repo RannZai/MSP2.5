@@ -110,6 +110,7 @@
       "chicken": "2025-07-09 02:29:35 +0000",
       "cooked_mutton": "2025-07-09 02:39:18 +0000",
       "cooked_beef": "2025-07-09 03:10:36 +0000",
+      "bread": "2025-07-09 03:41:35 +0000",
       "glow_berries": "2025-07-09 02:40:58 +0000"
     },
     "done": false
@@ -201,6 +202,30 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-09 03:13:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "second": "2025-07-09 03:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-09 03:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-09 03:43:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-09 03:43:18 +0000"
     },
     "done": true
   },

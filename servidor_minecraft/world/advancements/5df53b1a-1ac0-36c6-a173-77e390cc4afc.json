@@ -57,6 +57,7 @@
     "criteria": {
       "minecraft:beach": "2025-07-09 02:26:06 +0000",
       "minecraft:river": "2025-07-09 02:12:01 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-09 03:37:12 +0000",
       "minecraft:forest": "2025-07-09 03:18:50 +0000",
       "minecraft:savanna": "2025-07-09 02:09:01 +0000",
       "minecraft:plains": "2025-07-09 02:06:43 +0000"
@@ -132,7 +133,9 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
-      "biomeswevegone:ironwood_gour": "2025-07-09 02:11:59 +0000"
+      "biomeswevegone:ironwood_gour": "2025-07-09 02:11:59 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-07-09 03:37:45 +0000",
+      "biomeswevegone:allium_shrubland": "2025-07-09 03:40:41 +0000"
     },
     "done": false
   },
@@ -215,24 +218,6 @@
     },
     "done": true
   },
-  "simpleplanes:recipes/plane": {
-    "criteria": {
-      "in_fire": "2025-07-09 03:19:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-07-09 03:09:45 +0000"
-    },
-    "done": true
-  },
-  "vampirism:main/ancient_knowledge": {
-    "criteria": {
-      "blood_container": "2025-07-09 02:54:44 +0000"
-    },
-    "done": true
-  },
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2025-07-09 02:50:56 +0000"
@@ -245,15 +230,39 @@
     },
     "done": true
   },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-07-09 02:53:02 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-07-09 02:54:44 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
       "golden_apple": "2025-07-09 02:59:40 +0000"
     },
     "done": false
   },
-  "vampirism:main/root": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "main": "2025-07-09 02:53:02 +0000"
+      "iron_chestplate": "2025-07-09 03:09:45 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-07-09 03:19:25 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-07-09 03:41:50 +0000"
     },
     "done": true
   },
