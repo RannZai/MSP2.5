@@ -82,7 +82,8 @@
       "biomeswevegone:ironwood_gour": "2025-07-04 04:06:18 +0000",
       "biomeswevegone:amaranth_grassland": "2025-07-04 05:25:27 +0000",
       "biomeswevegone:prairie": "2025-07-04 02:03:52 +0000",
-      "biomeswevegone:allium_shrubland": "2025-07-04 01:59:46 +0000"
+      "biomeswevegone:allium_shrubland": "2025-07-04 01:59:46 +0000",
+      "biomeswevegone:baobab_savanna": "2025-07-09 03:16:05 +0000"
     },
     "done": false
   },
@@ -417,6 +418,12 @@
   "mcwroofs:recipes/birch": {
     "criteria": {
       "has_planks": "2025-07-09 02:27:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-07-09 03:14:53 +0000"
     },
     "done": true
   },

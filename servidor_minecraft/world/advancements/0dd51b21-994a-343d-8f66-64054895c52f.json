@@ -71,6 +71,7 @@
     "criteria": {
       "biomeswevegone:sakura_grove": "2025-07-09 03:00:32 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-09 02:28:16 +0000",
+      "biomeswevegone:prairie": "2025-07-09 03:16:41 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-09 02:24:33 +0000"
     },
     "done": false
@@ -172,6 +173,24 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-07-09 03:06:40 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2025-07-09 03:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-09 03:13:57 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-07-09 03:17:52 +0000"
     },
     "done": true
   },
