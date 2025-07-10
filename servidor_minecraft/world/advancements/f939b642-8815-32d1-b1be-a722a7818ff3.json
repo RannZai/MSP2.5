@@ -391,15 +391,15 @@
     },
     "done": true
   },
-  "simpleplanes:recipes/plane": {
+  "mcwroofs:recipes/granite": {
     "criteria": {
-      "in_fire": "2025-07-10 01:48:36 +0000"
+      "has_planks": "2025-07-10 01:44:15 +0000"
     },
     "done": true
   },
-  "mcwroofs:recipes/acacia_planks": {
+  "simpleplanes:recipes/plane": {
     "criteria": {
-      "has_planks": "2025-07-10 02:09:59 +0000"
+      "in_fire": "2025-07-10 01:48:36 +0000"
     },
     "done": true
   },
@@ -409,9 +409,15 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthana_raptor": {
+  "mcwroofs:recipes/acacia_planks": {
     "criteria": {
-      "umvuthana_raptor": "2025-07-10 02:43:01 +0000"
+      "has_planks": "2025-07-10 02:09:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-07-10 02:23:40 +0000"
     },
     "done": true
   },
@@ -421,15 +427,9 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/granite": {
+  "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
-      "has_planks": "2025-07-10 01:44:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "cabbage_seeds": "2025-07-10 02:23:40 +0000"
+      "umvuthana_raptor": "2025-07-10 02:43:01 +0000"
     },
     "done": true
   },
