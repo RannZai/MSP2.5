@@ -1353,3 +1353,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 03:18:14.948] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/82785, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
 [10Jul2025 03:18:28.855] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/82891, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
 [10Jul2025 03:19:08.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 has made the advancement [Second Age]
+[10Jul2025 03:21:04.263] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/84715, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 03:21:12.016] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/84764, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 03:21:34.906] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/85025, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 03:24:04.573] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/86276, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 03:24:26.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 has reached the goal [Bone Crusher]
+[10Jul2025 03:25:03.470] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/86791, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 03:25:13.913] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/86885, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 03:26:15.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanKxx1 was blown up by Creeper
+[10Jul2025 03:26:15.362] [Server thread/INFO] [tombstone/]: The player JuanKxx1 has successfully been saved
+[10Jul2025 03:26:54.162] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/87834, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 03:28:24.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanKxx1> ZZZ
+[10Jul2025 03:28:25.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanKxx1> ZZZ
+[10Jul2025 03:29:00.980] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/88817, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 03:29:33.060] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/89127, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 03:29:46.512] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/89218, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 03:30:08.857] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/89473, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock

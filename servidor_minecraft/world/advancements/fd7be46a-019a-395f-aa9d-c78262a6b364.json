@@ -454,5 +454,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 03:24:26 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:second_age": {
+    "criteria": {
+      "criteria_0": "2025-07-10 03:19:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

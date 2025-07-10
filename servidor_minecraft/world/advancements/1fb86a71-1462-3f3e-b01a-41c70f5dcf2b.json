@@ -276,7 +276,9 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-10 02:53:05 +0000",
       "minecraft:spider": "2025-07-10 02:56:26 +0000",
-      "minecraft:husk": "2025-07-10 02:54:08 +0000"
+      "minecraft:husk": "2025-07-10 02:54:08 +0000",
+      "minecraft:zombie": "2025-07-10 03:24:20 +0000",
+      "minecraft:zombie_villager": "2025-07-10 03:25:10 +0000"
     },
     "done": false
   },
