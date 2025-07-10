@@ -569,21 +569,27 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-07-09 03:12:39 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/spruce": {
     "criteria": {
       "has_planks": "2025-07-09 03:27:25 +0000"
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "minecraft:nether/root": {
     "criteria": {
-      "deflected_projectile": "2025-07-09 04:12:53 +0000"
+      "entered_nether": "2025-07-09 03:55:23 +0000"
     },
     "done": true
   },
-  "mowziesmobs:kill_ferrous_wroughtnaut": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "ferrous_wroughtnaut": "2025-07-09 03:12:39 +0000"
+      "entered_nether": "2025-07-09 03:55:23 +0000"
     },
     "done": true
   },
@@ -595,45 +601,9 @@
     },
     "done": false
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-07-09 03:55:23 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2025-07-09 04:24:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-07-09 03:55:23 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_grave_type": {
-    "criteria": {
-      "coded_trigger": "2025-07-09 04:43:11 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/granite": {
-    "criteria": {
-      "has_planks": "2025-07-09 04:15:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-07-09 04:07:17 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:adventure/summon_copper_golem": {
-    "criteria": {
-      "summoned_golem": "2025-07-09 04:26:12 +0000"
     },
     "done": true
   },
@@ -643,9 +613,39 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-09 04:12:53 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/diorite": {
     "criteria": {
       "has_planks": "2025-07-09 04:15:01 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2025-07-09 04:15:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-09 04:24:11 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/summon_copper_golem": {
+    "criteria": {
+      "summoned_golem": "2025-07-09 04:26:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2025-07-09 04:43:11 +0000"
     },
     "done": true
   },
