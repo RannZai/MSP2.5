@@ -649,5 +649,11 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/spruce_planks": {
+    "criteria": {
+      "has_planks": "2025-07-10 04:17:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
