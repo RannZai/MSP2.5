@@ -82,6 +82,7 @@
       "biomeswevegone:crag_gardens": "2025-07-04 02:59:44 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-03 03:47:04 +0000",
       "biomeswevegone:orchard": "2025-07-04 02:58:26 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-07-10 02:00:17 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-07-04 03:01:16 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-04 02:58:42 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-03 03:44:05 +0000"
@@ -220,6 +221,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-04 02:37:39 +0000",
+      "minecraft:spider": "2025-07-10 02:00:22 +0000",
       "minecraft:zombie": "2025-07-04 03:01:44 +0000"
     },
     "done": false
