@@ -312,5 +312,17 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-07-10 03:36:37 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-07-10 03:36:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
