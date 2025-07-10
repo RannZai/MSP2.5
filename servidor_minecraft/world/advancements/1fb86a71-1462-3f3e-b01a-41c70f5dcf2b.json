@@ -292,6 +292,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-07-10 02:58:41 +0000"
+    },
+    "done": true
+  },
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2025-07-10 03:00:38 +0000"
@@ -301,12 +307,6 @@
   "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2025-07-10 03:00:50 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/acacia_blossom": {
-    "criteria": {
-      "acacia_blossom": "2025-07-10 02:58:41 +0000"
     },
     "done": true
   },
