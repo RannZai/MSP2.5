@@ -328,5 +328,11 @@
     },
     "done": true
   },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-07-10 02:23:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
