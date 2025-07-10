@@ -1209,3 +1209,59 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 02:45:12.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhepus has made the advancement [Blood Feeders' Home]
 [10Jul2025 02:46:50.816] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/55422, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
 [10Jul2025 02:49:03.657] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/56351, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:49:18.663] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/56447, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:49:19.057] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/56449, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:50:00.713] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/56727, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:50:41.273] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/57155, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:50:42.509] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/57158, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:50:42.952] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/57164, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:51:32.069] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/57413, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:51:38.557] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/57453, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:51:53.901] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/57556, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:52:09.609] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/57655, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:52:58.617] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/58306, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:53:05.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitocromado has made the advancement [Monster Hunter]
+[10Jul2025 02:53:05.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitocromado has made the advancement [Knowledge of Death]
+[10Jul2025 02:53:05.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitocromado has made the advancement [A Strange Grave Dust]
+[10Jul2025 02:53:17.094] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/58606, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:53:17.569] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/58616, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:53:19.517] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/58651, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:53:20.627] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/58671, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:53:21.119] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/58683, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:54:13.169] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/59501, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:54:14.295] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/59529, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:55:10.018] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/60448, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:56:19.649] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/61096, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:56:41.620] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/61331, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:56:54.271] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/61427, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:57:13.675] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/61605, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:57:14.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 2whatsapp2 lost connection: Disconnected
+[10Jul2025 02:57:14.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 left the game
+[10Jul2025 02:57:42.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pitocromado lost connection: Disconnected
+[10Jul2025 02:57:42.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitocromado left the game
+[10Jul2025 02:57:44.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zhepus lost connection: Disconnected
+[10Jul2025 02:57:44.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhepus left the game
+[10Jul2025 02:57:58.122] [ForkJoinPool.commonPool-worker-27/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[10Jul2025 02:57:58.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zhepus[/127.29.58.102:54523] logged in with entity id 61882 at (-1421.5496824322026, 87.5, -712.0190495055704)
+[10Jul2025 02:57:58.158] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Zhepus
+[10Jul2025 02:57:58.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhepus joined the game
+[10Jul2025 02:58:04.117] [ForkJoinPool.commonPool-worker-27/WARN] [SkinRestorer/]: Failed to fetch skin: no profile with uuid fd7be46a-019a-395f-aa9d-c78262a6b364
+[10Jul2025 02:58:04.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 2whatsapp2[/127.189.68.117:43239] logged in with entity id 62383 at (-1418.7344972034343, 80.0, 148.77196012300686)
+[10Jul2025 02:58:04.179] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player 2whatsapp2
+[10Jul2025 02:58:04.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 joined the game
+[10Jul2025 02:58:06.451] [ForkJoinPool.commonPool-worker-27/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[10Jul2025 02:58:06.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pitocromado[/127.4.89.161:34529] logged in with entity id 62565 at (-913.3000000119209, 69.0, -206.9284942884506)
+[10Jul2025 02:58:06.481] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player pitocromado
+[10Jul2025 02:58:06.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitocromado joined the game
+[10Jul2025 02:58:06.759] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/62775, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:58:13.257] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/63002, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:58:24.771] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/63067, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:58:41.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitocromado has reached the goal [Flowers of the Savanna]
+[10Jul2025 02:58:48.028] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/63332, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:58:54.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanKxx1 has made the advancement [A Seedy Place]
+[10Jul2025 02:59:01.427] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/63480, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:59:13.020] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/63610, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:59:14.829] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/63633, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:59:21.123] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/63710, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:59:28.731] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/63817, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[10Jul2025 02:59:30.672] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/63877, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
