@@ -312,6 +312,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/acacia_planks": {
+    "criteria": {
+      "has_planks": "2025-07-10 03:37:47 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-07-10 03:36:37 +0000"
@@ -321,6 +327,18 @@
   "mcwroofs:recipes/stone_bricks": {
     "criteria": {
       "has_planks": "2025-07-10 03:36:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 03:43:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 03:46:25 +0000"
     },
     "done": true
   },

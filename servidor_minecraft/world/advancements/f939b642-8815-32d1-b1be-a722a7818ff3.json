@@ -439,5 +439,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 03:47:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
