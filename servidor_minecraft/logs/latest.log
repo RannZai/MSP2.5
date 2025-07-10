@@ -1421,3 +1421,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 03:47:46.167] [Server thread/INFO] [tombstone/]: The player 2whatsapp2 has successfully been saved
 [10Jul2025 03:50:00.425] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pitocromado lost connection: Disconnected
 [10Jul2025 03:50:00.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pitocromado left the game
+[10Jul2025 03:51:20.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 was doomed to fall
+[10Jul2025 03:51:20.515] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2whatsapp2 with unique ID travelersbackpack.coal_10.07.2025-03.51.20.dat
+[10Jul2025 03:51:20.518] [Server thread/INFO] [tombstone/]: The player 2whatsapp2 has successfully been saved
+[10Jul2025 03:55:40.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Esteban_king28 has made the advancement [Blood Feeders' Home]
+[10Jul2025 03:56:17.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2whatsapp2 was slain by Elephant
+[10Jul2025 03:56:17.691] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for 2whatsapp2 with unique ID travelersbackpack.coal_10.07.2025-03.56.17.dat
+[10Jul2025 03:56:17.710] [Server thread/INFO] [tombstone/]: The player 2whatsapp2 has successfully been saved
