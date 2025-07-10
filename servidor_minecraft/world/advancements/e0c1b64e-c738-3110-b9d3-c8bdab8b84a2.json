@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-07-10 01:32:38 +0000",
       "minecraft:bamboo_jungle": "2025-07-04 03:10:00 +0000",
       "minecraft:beach": "2025-07-03 03:49:35 +0000",
       "minecraft:sparse_jungle": "2025-07-04 03:10:02 +0000",
@@ -63,6 +64,8 @@
       "minecraft:forest": "2025-07-04 02:57:49 +0000",
       "minecraft:lush_caves": "2025-07-04 03:04:53 +0000",
       "minecraft:ocean": "2025-07-04 02:46:38 +0000",
+      "minecraft:jungle": "2025-07-10 01:32:32 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-10 01:31:14 +0000",
       "minecraft:savanna": "2025-07-03 03:46:03 +0000",
       "minecraft:plains": "2025-07-03 03:42:57 +0000"
     },
@@ -155,7 +158,8 @@
     "criteria": {
       "cooked_porkchop": "2025-07-04 03:01:35 +0000",
       "cooked_mutton": "2025-07-03 03:54:56 +0000",
-      "bread": "2025-07-04 03:02:38 +0000"
+      "bread": "2025-07-04 03:02:38 +0000",
+      "cookie": "2025-07-10 01:29:30 +0000"
     },
     "done": false
   },
@@ -277,6 +281,36 @@
   "mcwroofs:recipes/awning": {
     "criteria": {
       "has_planks": "2025-07-04 03:01:04 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch_planks": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-10 01:42:32 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:39:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 01:37:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-07-10 01:37:24 +0000"
     },
     "done": true
   },

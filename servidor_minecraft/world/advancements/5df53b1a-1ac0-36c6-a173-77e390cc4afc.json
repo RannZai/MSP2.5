@@ -326,15 +326,51 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2025-07-09 04:48:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-07-09 04:48:39 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/tactical_fishing": {
+  "mcwroofs:recipes/granite": {
     "criteria": {
-      "salmon_bucket": "2025-07-09 04:48:12 +0000"
+      "has_planks": "2025-07-09 05:12:45 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-07-09 05:21:41 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-07-09 05:42:42 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-09 05:21:42 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-07-09 05:45:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "interact": "2025-07-09 05:41:05 +0000"
     },
     "done": true
   },

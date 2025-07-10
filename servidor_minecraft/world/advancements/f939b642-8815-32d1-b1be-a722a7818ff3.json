@@ -57,6 +57,7 @@
     "criteria": {
       "minecraft:beach": "2025-07-09 02:28:30 +0000",
       "minecraft:river": "2025-07-09 02:26:58 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-09 05:16:47 +0000",
       "minecraft:savanna": "2025-07-09 02:24:04 +0000",
       "minecraft:plains": "2025-07-09 01:58:01 +0000"
     },
@@ -346,12 +347,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/emu": {
-    "criteria": {
-      "killed_by": "2025-07-09 04:51:39 +0000"
-    },
-    "done": true
-  },
   "evilcraft:second_age": {
     "criteria": {
       "criteria_0": "2025-07-09 04:49:03 +0000"
@@ -361,6 +356,36 @@
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2025-07-09 04:50:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-07-09 04:51:39 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-07-09 05:14:05 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-07-09 05:14:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-09 05:27:03 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-07-09 05:38:55 +0000"
     },
     "done": true
   },
